@@ -44,12 +44,17 @@ The results will be stored in files named `result_train_dataset`, where `'train_
 ## Experiment
 Experiments on two statics scenarios (Darcy flow and mechanics) and two dynamic scenarios (pipe flow and airfoil flow) were carried out
 ### Darcy flow
+
 #### Generalization on  domains with different size
+<img src="experiment_graph/Darcy_flow_size.png" alt="Image" width="500" height="300">
 
 #### Generalization on  domains with different shape
+<img src="experiment_graph/Darcy_flow_shape.png" alt="Image" width="500" height="300">
 
 ### Pipe flow
+<img src="experiment_graph/Pipe_flow.gif" alt="Image" width="500" height="300">
 
-### Pipe flow
+### Airfoil flow
+<img src="experiment_graph/Airfoils_flow.gif" alt="Image" width="500" height="300">
 
 

@@ -15,7 +15,7 @@ For more information, please refer to the following paper.
 
 [Airfoil flow datasets](https://drive.google.com/drive/folders/1pmYZ1B_c1zVkOmeoksf6kTSKOGMSf2l1?usp=drive_link)
 
-## Data Generate
+## Data Generation
 
 If you want to try generating data yourself, we provide programs for generating data, including diffeomorphism methods and PDE solving processes. Using a pentagon with Darcy flow as an example, we demonstrate how to generate data, which mainly involves the following steps:
 

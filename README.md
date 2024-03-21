@@ -46,17 +46,21 @@ Experiments on two statics scenarios (Darcy flow and mechanics) and two dynamic 
 ### Darcy flow
 The DNO of Darcy flow was trained on a pentagon domain and then generalized validation was conducted on varying sizes (5-30) and shapes (pentagon, hexagon, octagon).
 #### Generalization on  domains with different size
-<img src="experiment_graph/Darcy_flow_size.png" alt="Image" width="500" height="300">
+
+<img src="experiment_graph/Darcy_flow_size.png" alt="Image" width="520" height="300">
 
 #### Generalization on  domains with different shape
-<img src="experiment_graph/Darcy_flow_shape.png" alt="Image" width="500" height="300">
+
+<img src="experiment_graph/Darcy_flow_shape.png" alt="Image" width="520" height="300">
 
 ### Pipe flow
 The neural operator for pipe flow was trained on domains containing 2-4 baffles and then generalized on domains with 5 baffles.
+
 <img src="experiment_graph/Pipe_flow.gif" alt="Image" width="500" height="300">
 
 ### Airfoil flow
 The cases of airfoil flow were tested on airfoil of different shapes and then further generalized on larger domains containing different airfoil shapes.
+
 <img src="experiment_graph/Airfoils_flow.gif" alt="Image" width="500" height="300">
 
 
